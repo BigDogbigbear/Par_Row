@@ -1,0 +1,22 @@
+.box_par {
+	display: grid;
+}
+
+.red, .green, .blue{
+	height: 200px;
+	width: 200px;
+	margin-top: 20px;
+}
+
+.red {
+	background-color: red;
+}
+
+.green {
+	background-color: green;
+}
+
+
+.blue {
+	background-color: blue;
+}
